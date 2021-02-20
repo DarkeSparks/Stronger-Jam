@@ -12,7 +12,6 @@ What's unfinished
 - No Other Enemy's And Game Stuff
 - No Level Selection
 - You Can't Hit The Enemies
-- No Movement
 
 What Needs Improvement
 - Player's Movement
